@@ -1,4 +1,14 @@
-Description,Manufacturer,Man. Part #,Distributor,Dist. Part #,Link,Unit Price (@ 1),Quantity,Cost
-Card Edge Connector,AVX,6.09E+14,Mouser,581-609159350609000,https://www.mouser.com/ProductDetail/AVX/609159350609000?qs=sGAEpiMZZMvffgRu4KC1RwpUkTKiFW%252BFhtlaBSHlzHM%3D,$0.18 ,1,$0.18 
-Header Pins,TE Connectivity,4-103741-0,Mouser,571-41037410,https://www.mouser.com/ProductDetail/TE-Connectivity/4-103741-0?qs=sGAEpiMZZMs%252BGHln7q6pm48SVpWlpfsESPyDgDMNjks%3D,$2.04 ,1,$2.04 
-PCB,TBD,N/A,N/A,N/A,Custom,TBD,1,TBD  
+Description,Manufacturer,Man. Part #,Distributor,Dist. Part #,Link,Unit Price (@ 1),Unit Price @ 1000 units,Quantity,Total (per 1 unit),Total (per 1000 units)
+Card Edge Connector,AVX,6.09159E+14,Mouser,581-609159350609000,https://www.mouser.com/ProductDetail/AVX/609159350609000?qs=sGAEpiMZZMvffgRu4KC1RwpUkTKiFW%252BFhtlaBSHlzHM%3D,$0.18 ,$0.11 ,6,$1.08 ,$636.00 
+Header Pins,TE Connectivity,4-103741-0,Mouser,571-41037410,https://www.mouser.com/ProductDetail/TE-Connectivity/4-103741-0?qs=sGAEpiMZZMs%252BGHln7q6pm48SVpWlpfsESPyDgDMNjks%3D,$2.15 ,$1.19 ,1,$2.15 ,"$1,190.00 "
+PCB,TBD,N/A,N/A,N/A,Custom,TBD,TBD,1,TBD  ,TBD
+Arduino Uno R3,Nero-SP1,Nero-SP1,Mouser,895-NERO-SP1,https://www.mouser.com/ProductDetail/Bridgetek/Nero-SP1?qs=sGAEpiMZZMt7ScBeCnc0e5DExcnzRTZvZyQpKqJBxT8%3D,$24.96 ,Not Available,1,$24.96 ,Not Available
+BC850 NPN Transistor,Nexperia USA,"BC850C, 215",Digikey,"1727-4862-2-ND	",https://www.digikey.com/product-detail/en/nexperia-usa-inc/BC850C215/1727-4862-2-ND/1232313,$0.04 ,$0.03 ,6,$0.23 ,$204.00 
+ULN2003A Darlington Transistor,Diodes Incorporated,ULN2003AS16-13,Mouser,621-ULN2003AS16-13,https://www.mouser.com/ProductDetail/Diodes-Incorporated/ULN2003AS16-13?qs=sGAEpiMZZMshyDBzk1%2FWi%2FLXd7RPywUlyA61FutLXYAC7lq5FOmyqg%3D%3D,$0.48 ,$0.19 ,1,$0.48 ,$188.00 
+0805 SMD 1K ohms Resistor ,Vishay/ Dale,CRCW08051K00FKEAC,Mouser,71-CRCW08051K00FKEAC,https://www.mouser.com/ProductDetail/Vishay-Dale/CRCW08051K00FKEAC?qs=sGAEpiMZZMu61qfTUdNhG7teaFBAgAz55iWoewB%2FO1A%3D,$0.10 ,$0.01 ,6,$0.60 ,$60.00 
+Switch,C&K,PTS636 SM43 SMTR LFS,Mouser,611-PTS636SM43SMTRLF,https://www.mouser.com/ProductDetail/CK/PTS636-SM43-SMTR-LFS?qs=vLWxofP3U2xu5raMGkTmHg%3D%3D,$0.11 ,$0.06 ,1,$0.11 ,$63.00 
+Green LED's ,Wurth Elektronik,150080GS75000,Mouser ,710-150080GS75000,https://www.mouser.com/ProductDetail/Wurth-Elektronik/150080GS75000?qs=sGAEpiMZZMseGfSY3csMkWdJa7STmGtdxLVWEDoSWxG0F2GTBV6kRA%3D%3D,$0.18 ,Not Available,6,$1.08 ,Not Available
+Red LED's,Kingbright,"
+APTD2012LSURCK",Mouser,604-APTD2012LSURCK,https://www.mouser.com/ProductDetail/Kingbright/APTD2012LSURCK?qs=sGAEpiMZZMseGfSY3csMkdgyOOAg6kv2HqsweE2wtPptR%252BT73RwchA%3D%3D,$0.38 ,$0.10 ,6,$2.28 ,$600.00 
+0805 SMD 100 0hms resistor,Yageo,SR0805FR-47100RL,Mouser,603-SR0805FR-47100RL,,$0.56 ,$0.181 ,6,$3.36 ,"$1,086.00 "
+0805 SMD 1.5K 0hms resistor,KOA Speer,SG73G2ATTD1501D,Mouser,660-SG73G2ATTD1501D,,$0.23 ,$0.115 ,6,$1.38 ,$690.00 
