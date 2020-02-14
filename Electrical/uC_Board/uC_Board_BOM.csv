@@ -1,21 +1,21 @@
 ﻿Description,Manufacturer,Man. Part #,Distributor,Dist. Part #,Link,Unit Price (@ 1),Unit Price (@ 1000),Quantity,Cost (@ 1),Cost (@ 1000)
-ATMEGA328 uC,Micochip Technology / Atmel,ATMEGA328PB-AU,Mouser,556-ATMEGA328PB-AU,https://www.mouser.com/ProductDetail/Microchip-Technology-Atmel/ATMEGA328PB-AU?qs=jy4bLUHv09hbFONgGrqPbw%3D%3D&gclid=EAIaIQobChMIh8yYmvP-4wIVAf7jBx05ognrEAAYASAAEgI2l_D_BwE,$1.38 ,$1.150 ,1,$1.38 ,$1.150
-Precision Transimpedance Amp,Texas Instruments,OPA2381AIDGKR,Mouser,595-OPA2381AIDGKR,https://www.mouser.com/ProductDetail/Texas-Instruments/OPA2381AIDGKR?qs=sGAEpiMZZMuEBu2IkGob7mkjoD7K%252BZ9DIIYe3xZnAnI%3D,$2.68 ,$1.410 ,1,$2.68 ,$1.410
-IR Photodiode,Wurth Elektronik,1541201EEA400,Mouser,710-1541201EEA400,https://www.mouser.com/ProductDetail/Wurth-Elektronik/1541201EEA400?qs=sGAEpiMZZMtWNtIk7yMEsZQSjt2jgOZwp2em9TE3lq2ypf0ZCPeNrw%3D%3D,$0.54 ,$0.330 ,2,$1.08 ,$0.660
-IR LED,Stanley Electric,TAN1105W-TR,Mouser,327-TAN1105WTR,https://www.mouser.com/ProductDetail/Stanley-Electric/TAN1105W-TR?qs=sGAEpiMZZMvAL21a%2FDhxMn4m4NxZkvurTt1J9C7uE6IhjI4NcQciSQ%3D%3D,$0.37 ,$0.123 ,1,$0.37 ,$0.123
-NPN BJT,ON Semiconductor,BC850CLT1G,Mouser,863-BC850CLT1G,https://www.mouser.com/ProductDetail/ON-Semiconductor/BC850CLT1G?qs=sGAEpiMZZMshyDBzk1%2FWi%2FPUgtclNldlSy71XeSFIHQ%3D,$0.10 ,$0.020 ,1,$0.10 ,$0.020
-3.3V LDO Regulator,Texas Instruments,LM1117MPX-5.0/NOPB,Mouser,926-LM1117MPX5.0NOPB,https://www.mouser.com/ProductDetail/Texas-Instruments/LM1117MPX-50-NOPB?qs=X1J7HmVL2ZE1O12Qsl7F9g%3D%3D&gclid=EAIaIQobChMI24-SupL54wIV6__jBx2Zjw2kEAAYASAAEgK6-PD_BwE,$1.10 ,$0.501 ,1,$1.10 ,$0.501
-16MHz oscillator,Murata Electronics,CSTNE16M0V530000R0,Mouser,81-CSTNE16M0V530000R,https://www.mouser.com/ProductDetail/Murata-Electronics/CSTNE16M0V530000R0?qs=sGAEpiMZZMsBj6bBr9Q9aVicrFFkOfIYV5da6pIYPVRxJHDRIzbVvw%3D%3D,$0.51 ,$0.269 ,1,$0.51 ,$0.269
-pushbutton switch,C&K,PTS636 SK25 SMTR LFS,Mouser,611-PTS636SK25SMTRLF,https://www.mouser.com/ProductDetail/CK/PTS636-SK25-SMTR-LFS?qs=sGAEpiMZZMsgGjVA3toVBC4OPD95ORcgQhX0m3g%252Bo9Q%3D,$0.13 ,$0.076 ,1,$0.13 ,$0.076
-light pipe,Bivar,VLP-650-F,Digi-Key,492-2287-ND,https://www.digikey.com/product-detail/en/bivar-inc/VLP-650-F/492-2287-ND/4500883,$0.53 ,$0.170 ,2,$1.06 ,$0.340
-1uF capacitor 0603,,,,,,,,3,,
-4.7uF capacitor 0805,,,,,,,,1,,
-100nF capacitor 0603,,,,,,,,1,,
-1k resistor 0603,,,,,,,,5,,
-1M resistor 0603,,,,,,,,2,,
-Single row male header pins,,,,,,,,2,,
+ATMEGA328 uC,Micochip Technology / Atmel,ATMEGA328PB-AU,Mouser,556-ATMEGA328PB-AU,https://www.mouser.com/ProductDetail/Microchip-Technology-Atmel/ATMEGA328PB-AU?qs=jy4bLUHv09hbFONgGrqPbw%3D%3D&gclid=EAIaIQobChMIh8yYmvP-4wIVAf7jBx05ognrEAAYASAAEgI2l_D_BwE,$1.38 ,$1.15 ,1,$1.38 ,1150
+Precision Transimpedance Amp,Texas Instruments,OPA2381AIDGKR,Mouser,595-OPA2381AIDGKR,https://www.mouser.com/ProductDetail/Texas-Instruments/OPA2381AIDGKR?qs=sGAEpiMZZMuEBu2IkGob7mkjoD7K%252BZ9DIIYe3xZnAnI%3D,$2.68 ,$1.41 ,2,$5.36 ,2820
+IR Photodiode,Wurth Elektronik,1541201EEA400,Mouser,710-1541201EEA400,https://www.mouser.com/ProductDetail/Wurth-Elektronik/1541201EEA400?qs=sGAEpiMZZMtWNtIk7yMEsZQSjt2jgOZwp2em9TE3lq2ypf0ZCPeNrw%3D%3D,$0.54 ,$0.33 ,2,$1.08 ,$660.00 
+IR LED,Stanley Electric,TAN1105W-TR,Mouser,327-TAN1105WTR,https://www.mouser.com/ProductDetail/Stanley-Electric/TAN1105W-TR?qs=sGAEpiMZZMvAL21a%2FDhxMn4m4NxZkvurTt1J9C7uE6IhjI4NcQciSQ%3D%3D,$0.37 ,$0.12 ,1,$0.37 ,$123.00 
+NPN BJT,ON Semiconductor,BC850CLT1G,Mouser,863-BC850CLT1G,https://www.mouser.com/ProductDetail/ON-Semiconductor/BC850CLT1G?qs=sGAEpiMZZMshyDBzk1%2FWi%2FPUgtclNldlSy71XeSFIHQ%3D,$0.10 ,$0.02 ,1,$0.10 ,$20.00 
+5V LDO Regulator,Texas Instruments,LM1117MPX-5.0/NOPB,Mouser,926-LM1117MPX5.0NOPB,https://www.mouser.com/ProductDetail/Texas-Instruments/LM1117MPX-50-NOPB?qs=X1J7HmVL2ZE1O12Qsl7F9g%3D%3D&gclid=EAIaIQobChMI24-SupL54wIV6__jBx2Zjw2kEAAYASAAEgK6-PD_BwE,$1.10 ,$0.50 ,1,$1.10 ,$501.00 
+16MHz oscillator,Murata Electronics,CSTNE16M0V530000R0,Mouser,81-CSTNE16M0V530000R,https://www.mouser.com/ProductDetail/Murata-Electronics/CSTNE16M0V530000R0?qs=sGAEpiMZZMsBj6bBr9Q9aVicrFFkOfIYV5da6pIYPVRxJHDRIzbVvw%3D%3D,$0.51 ,$0.27 ,1,$0.51 ,$269.00 
+pushbutton switch,C&K,PTS636 SK25 SMTR LFS,Mouser,611-PTS636SK25SMTRLF,https://www.mouser.com/ProductDetail/CK/PTS636-SK25-SMTR-LFS?qs=sGAEpiMZZMsgGjVA3toVBC4OPD95ORcgQhX0m3g%252Bo9Q%3D,$0.13 ,$0.08 ,1,$0.13 ,$76.00 
+light pipe,Bivar,VLP-650-F,Digi-Key,492-2287-ND,https://www.digikey.com/product-detail/en/bivar-inc/VLP-650-F/492-2287-ND/4500883,$0.53 ,$0.17 ,2,$1.06 ,$340.00 
+1uF capacitor 0603,Walsin,1812B104J101CT,Mouser,791-1812B104J101CT,,$0.41 ,$0.19 ,3,$1.23 ,$567.00 
+4.7uF capacitor 0805,KEMET,C0805C475M3RACAUTO,Mouser,80-C0805C475M3RAUTO,https://www.mouser.com/ProductDetail/KEMET/C0805C475M3RACAUTO?qs=sGAEpiMZZMs0AnBnWHyRQNStjhAUP4u8TISXXc6h26jhkMlqb6M4dA%3D%3D,$0.71 ,$0.23 ,1,$0.71 ,$230.00 
+100nF capacitor 0603,Wurth Elektronik,88-5012105016,Mouser,710-885012105016,https://www.mouser.com/ProductDetail/Wurth-Elektronik/885012105016?qs=sGAEpiMZZMs0AnBnWHyRQEGbLOF2VP1iQHTtW%252BsF6uiqVsWNN5qQVg%3D%3D,$0.10 ,Not Available,2,$0.10 ,$0.00 
+1k resistor 0603,KOA Speer,RN73R1JTTD1001D25,Mouser,660-RN73R1JTD1001D25,https://www.mouser.com/ProductDetail/KOA-Speer/RN73R1JTTD1001D25?qs=sGAEpiMZZMvdGkrng054t7z4BkURc4Lz61BKEaRitzTmhZcUZNk0vg%3D%3D,$0.35 ,$0.05 ,6,$1.75 ,$245.00 
+1M resistor 0603,Vishay/ Dale,RCS06031M00FKEA,Mouser ,71-RCS06031M00FKEA,https://www.mouser.com/ProductDetail/Vishay-Dale/RCS06031M00FKEA?qs=sGAEpiMZZMvdGkrng054t5h1zTYPh4vh3DY0wsQWbBkcKz%252BWiLNbpw%3D%3D,$0.15 ,$0.02 ,2,$0.30 ,$38.00 
+Single row male header pins,TE Connectivity,4-103741-0,Mouser,571-41037410,https://www.mouser.com/ProductDetail/TE-Connectivity/4-103741-0?qs=sGAEpiMZZMs%252BGHln7q6pm48SVpWlpfsESPyDgDMNjks%3D,$2.15 ,$1.19 ,2,$4.30 ,2380
+Card Edge Connector,AVX,60-9159000000000,Mouser,581-609159350609000,https://www.mouser.com/ProductDetail/AVX/609159350609000?qs=sGAEpiMZZMvffgRu4KC1RwpUkTKiFW%252BFhtlaBSHlzHM%3D,$0.18 ,$0.11 ,1,$0.18 ,$110.00 
 ,,,,,,,,,,
 ,,,,,,,,,,
 ,,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,$8.81 ,$4.769
+,,,,,,,,,$19.66 ,9529
